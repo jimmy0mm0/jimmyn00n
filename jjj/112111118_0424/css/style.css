@@ -1,0 +1,63 @@
+/*網頁版面*/
+#container{
+    width: 980px ;
+    margin: 0 auto ;
+    background-color: rgba(240, 157, 176, 0.555);
+    padding: 20px 80px;
+    color: #226af1ab;
+    text-decoration: none;
+    }
+
+
+/*相片*/
+#imggg{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: rgb(154, 212, 152) double 12px;
+
+}
+
+/*證照相片*/
+#ddd{
+border-radius: 30%;
+margin-top: 20px;
+border: rgb(152, 190, 212) double 7px;
+padding: 2px;
+display: inline-block;
+
+}
+
+
+/*名字*/
+
+#name{
+    float: right;
+    margin-top: 20px;
+    margin-right: 150px;
+    background-color: rgb(243, 214, 190);
+    border-radius: 20px;
+    padding: 11px;
+    border: rgb(253, 129, 129) double 5px;
+}
+
+#namee{
+    display: inline block 180;
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    background-color: rgb(243, 204, 168);
+    border-radius: 10px;
+    padding: 5px;
+    border: rgb(240, 115, 115) double 5px;
+
+}
+
+h1{
+    background-color: rgb(241, 212, 167);
+    border: rgb(241, 138, 98) double 5px;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
